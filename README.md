@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Narendra!
 
-### Aspiring Full Stack Developer | Python Developer | AI & RAG Enthusiast
+### Aspiring Full Stack Developer | Python Developer 
 
 Building modern applications and turning ideas into reality.
 
