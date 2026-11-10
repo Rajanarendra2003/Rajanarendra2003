@@ -1,15 +1,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=220&section=header&text=NARENDRA&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20AI%20Explorer&descSize=17&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:6D28D9,100:0891B2&height=230&section=header&text=NARENDRA&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Full%20Stack%20Developer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Python+%7C+JavaScript+%7C+Full+Stack;Exploring+Generative+AI+%26+RAG;Turning+Ideas+Into+Applications!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Python+%7C+Django+Developer;Frontend+%7C+Backend+%7C+SQL;Building+Web+Applications;Learning+Something+New+Every+Day!" />
 
 <br/>
 
 <a href="https://github.com/Rajanarendra2003">
 <img src="https://img.shields.io/badge/GitHub-Rajanarendra2003-181717?style=for-the-badge&logo=github" />
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=Rajanarendra2003&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
 
 </div>
@@ -18,38 +19,53 @@
 
 ## 💫 About Me
 
-Hello! I'm **Narendra**, an aspiring Full Stack Developer passionate about programming, web development and Artificial Intelligence.
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 💻 Building interactive web applications.
-- 🐍 Learning Python and advanced programming.
-- 🌐 Developing with HTML, CSS and JavaScript.
-- 🗄️ Practicing SQL and Oracle Database.
-- 🤖 Exploring Generative AI, LLMs and RAG.
-- 🚀 Working towards becoming a Python RAG Full Stack Developer.
+Hello! I'm **Narendra**, an aspiring Python Full Stack Developer who enjoys building websites and interactive applications.
 
-> "Great things are built one line of code at a time."
+- 🐍 Passionate about Python Programming.
+- 🌐 Interested in Full Stack Web Development.
+- ⚡ Building interactive interfaces using HTML, CSS & JavaScript.
+- 🔥 Learning backend development with Django.
+- 🗄️ Working with SQL and databases.
+- 💻 Practicing programming through real-world projects.
+- 🚀 Always motivated to learn and improve my development skills.
+
+<br clear="right"/>
+
+> "Dream big, write code, solve problems and keep growing."
 
 ---
 
-## ⚡ Tech Stack & Skills
+## ⚡ Technical Skills
 
-### Programming Languages
+### 🐍 Programming Language
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,js&theme=light" />
+<img src="https://skillicons.dev/icons?i=python&theme=light" />
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=light" />
 </p>
 
-### Database
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django&theme=light" />
+</p>
+
+### 🗄️ Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
 <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
 </p>
@@ -58,30 +74,33 @@ Hello! I'm **Narendra**, an aspiring Full Stack Developer passionate about progr
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
+
 <h3>🎯 Quiz Application</h3>
-<p>Interactive quiz application using HTML, CSS and JavaScript.</p>
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-</p>
-<a href="https://github.com/Rajanarendra2003/quiz_game">🔗 View Project</a>
-</td>
-<td width="50%">
-<h3>🐍 Snake Game</h3>
-<p>Classic Snake Game with keyboard controls, score tracking and restart functionality.</p>
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-</p>
-<a href="https://Rajanarendra2003.github.io/snake-game/">🎮 PLAY GAME</a>
+
+An interactive quiz application built using HTML, CSS and JavaScript. Designed to provide an engaging quiz experience with interactive functionality.
+
+<br/>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+<br/><br/>
+
+<a href="https://github.com/Rajanarendra2003/quiz_game">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -101,34 +120,23 @@ Hello! I'm **Narendra**, an aspiring Full Stack Developer passionate about progr
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 Currently Learning & Improving
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Rajanarendra2003/Rajanarendra2003/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
-
-</div>
-
----
-
-## 🎯 Currently Learning
-
-- Python Programming
-- JavaScript & Async Programming
-- Backend Development
-- REST APIs
-- SQL & Database Management
-- Generative AI & LLMs
-- Retrieval-Augmented Generation (RAG)
-- Full Stack Development
+- 🐍 Advanced Python Programming
+- 🌐 JavaScript & Asynchronous Programming
+- ⚙️ Django Backend Development
+- 🔗 REST API Development
+- 🗄️ SQL & Database Management
+- 💻 Full Stack Application Development
+- 🧠 Data Structures & Problem Solving
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/Rajanarendra2003">
+<a href="https://github.com/Rajanarendra2003" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -136,8 +144,8 @@ Hello! I'm **Narendra**, an aspiring Full Stack Developer passionate about progr
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/raja-narendra-pamarthi-0226b2279" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -148,8 +156,8 @@ Hello! I'm **Narendra**, an aspiring Full Stack Developer passionate about progr
 
 ### 💙 Thanks for visiting my profile!
 
-**Code. Learn. Build. Repeat.**
+### Code • Create • Learn • Grow
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:2563EB&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:6D28D9,100:1D4ED8&height=120&section=footer" width="100%" />
 
 </div>
