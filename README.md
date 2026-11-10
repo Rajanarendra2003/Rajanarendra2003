@@ -91,8 +91,6 @@ I enjoy writing clean code, solving problems, and exploring new technologies.
 
 <a href="https://github.com/Rajanarendra2003/quiz_game">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajanarendra2003&repo=quiz_game&theme=tokyonight&hide_border=true" alt="Quiz Application repository card" />
-
 </a>
 
 </div>
