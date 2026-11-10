@@ -127,12 +127,6 @@ An interactive quiz application developed using HTML, CSS and JavaScript.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rajanarendra2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajanarendra2003&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-
-<br/><br/>
-
 <img width="75%" src="https://streak-stats.demolab.com?user=Rajanarendra2003&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
